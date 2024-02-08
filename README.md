@@ -1,2 +1,2 @@
 # javascript
-basic javascript
+basic javascript and project
